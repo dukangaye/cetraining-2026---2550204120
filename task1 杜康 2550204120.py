@@ -34,7 +34,7 @@ def count_words(filepath):
     return dict(word_count.most_common())
 
 
-def print_word_count(word_count, top_n=None):
+
     """
     格式化输出词频统计结果。
 
